@@ -5,7 +5,7 @@ Repo for email work for the Family law team
 
 To view what the updated Family Law file looks like head [here](https://github.amias.dev/family-law/family-law/index-updated.html)
 
-To view the Housing Law file updated version head [here](https://github.amias.dev/family-law/housing-law/index-update.html)
+To view the Housing Law file updated version head [here](https://github.amias.dev/family-law/housing-law/index-updated.html)
 
 ## Downloading
 
